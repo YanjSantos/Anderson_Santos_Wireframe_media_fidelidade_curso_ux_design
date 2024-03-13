@@ -2,5 +2,5 @@
 
 Primeiro projeto do curso de UX Design DIO.
 
-CRiação de Wireframne de média fidelidade.
+Criação de Wireframne de média fidelidade.
 
